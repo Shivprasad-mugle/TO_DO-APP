@@ -1,6 +1,6 @@
-#📝 Command-Line To-Do Application (Python)
+📝 Command-Line To-Do Application (Python)
 
-#📌 Project Overview
+📌 Project Overview
 
 This is a simple **Command-Line To-Do Application** built using Python.
 It allows users to **add tasks** and **view their task list** directly from the terminal.
@@ -15,14 +15,14 @@ This project is designed for beginners to understand basic Python concepts like:
 
 ---
 
-# 🚀 Features
+🚀 Features
 
-* ➕ Add new tasks
-* 📋 View all tasks
-* 🔁 Continuous loop until user exits
-* ❌ Handles invalid input
+➕ Add new tasks
+📋 View all tasks
+🔁 Continuous loop until user exits
+❌ Handles invalid input
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 * Python
 * VS Code / Any Python IDE
@@ -43,7 +43,7 @@ The program shows a menu:
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 todo_app.py   # Main Python file
@@ -52,7 +52,7 @@ README.md     # Project documentation
 
 ---
 
-## 🧠 Concepts Used
+🧠 Concepts Used
 
 * Lists to store tasks
 * Functions for modular code
@@ -61,7 +61,7 @@ README.md     # Project documentation
 
 ---
 
-## 📈 Future Improvements
+📈 Future Improvements
 
 * Delete task feature
 * Mark task as completed
@@ -70,12 +70,12 @@ README.md     # Project documentation
 
 ---
 
-## 🙌 Author
+🙌 Author
 
 * Shivprasad
 
 ---
 
-## ⭐ Support
+⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
